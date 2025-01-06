@@ -515,12 +515,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 
 <br />
 
-# 🔗 **Let's Connect** 🤝
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bharat__2044)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat2044/)
-<a href='https://medium.com/@Bharat2044' target="_blank"><img alt='Medium' src='https://img.shields.io/badge/Medium-100000?style=plastic&logo=Medium&logoColor=000000&labelColor=475AC7&color=475AC7'/></a>
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21453213/bharat2044)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1202345957216231446)
-#   1 0 0 x D e v s - C o h o r t 3 . 0 - W e b D e v - a n d - D e v o p s  
+#   1 0 0 x D e v s - C o h o r t 3 . 0 - W e b D e v - a n d - D e v o p s 
+ 
  
